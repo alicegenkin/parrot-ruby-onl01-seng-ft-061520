@@ -1,4 +1,4 @@
 def parrot(str = Squawk!)
   puts ${str}
-  returns ${str}
+  print ${str}
 end
